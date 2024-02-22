@@ -1,0 +1,7 @@
+﻿  IATHookMsgBox.cpp
+D:\study\杂项代码\IATHookMsgBox2\IATHookMsgBox.cpp(52,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“ULONG_PTR”
+D:\study\杂项代码\IATHookMsgBox2\IATHookMsgBox.cpp(152,10): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“ULONG_PTR”
+D:\study\杂项代码\IATHookMsgBox2\IATHookMsgBox.cpp(146,7): warning C4101: “bResult”: 未引用的局部变量
+D:\study\杂项代码\IATHookMsgBox2\IATHookMsgBox.cpp(173,26): warning C4311: “类型强制转换”: 从“PFN_MessageBoxA”到“ULONG”的指针截断
+D:\study\杂项代码\IATHookMsgBox2\IATHookMsgBox.cpp(173,26): warning C4302: “类型强制转换”: 从“PFN_MessageBoxA”到“ULONG”截断
+  IATHookMsgBox2.vcxproj -> D:\study\杂项代码\IATHookMsgBox2\x64\Debug\IATHookMsgBox2.exe
